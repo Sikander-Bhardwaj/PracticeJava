@@ -28,7 +28,7 @@ public class Discover implements BrowseListener {
 	String serviceType = "_llrp._tcp";
 	InetAddress theAddress;
 	List<String> servicesList = new ArrayList<String>();
-
+	
 	public String discov() {
 		try {
 
