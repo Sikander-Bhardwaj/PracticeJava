@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/jar files/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbhardwaj/Downloads/hamcrest-all-1.3.jar/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbhardwaj/Downloads/jar_files (7)/json-20090211.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbhardwaj/Downloads/jar_files (13)/jsonassert-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbhardwaj/Downloads/jar_files (14)/engine.io-client-1.0.0.jar" sourcepath="C:/Users/sbhardwaj/.m2/repository/io/socket/engine.io-client/1.0.0/engine.io-client-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbhardwaj/Downloads/jar_files (14)/okhttp-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbhardwaj/Downloads/jar_files (14)/socket.io-client-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbhardwaj/Downloads/hamcrest-library-1.3.jar/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbhardwaj/Downloads/jar_files (15)/okio-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbhardwaj/Downloads/jar_files (15)/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbhardwaj/Downloads/jar_files (15)/kotlin-stdlib-1.2.60.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbhardwaj/Downloads/jar_files (15)/kotlin-stdlib-common-1.2.60.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/dns_sd.jar"/>
+	<classpathentry kind="lib" path="D:/ltkjava-1.0.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/mercuryapi.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/jmdns-3.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
